@@ -5,4 +5,4 @@ The configuration properties are in the same repo as the app only to make the de
 
 The client config is stored in /config
 
-And can be accessed at localhost:8888/client
+And can be accessed at localhost:8888/client/master
